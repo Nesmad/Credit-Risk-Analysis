@@ -29,22 +29,22 @@ Used:
 * 19 columns 
 * 110 000 rows 
 * columns:
-- Customer ID, 
-- Credit Score,  
-- Annual Income,  
-- Years in current job, 
-- Home Ownership, Purpose, 
-- Years of Credit History,
-- Months since the last delinquent, 
-- Number of Open Accounts,
-- Number of Credit Problems,
-- Maximum Open Credit, Bankruptcies, Tax Liens
-- Loan ID
-- Loan Status
-- Current Loan Amount
-- Term
-- Monthly Debt
-- Current Credit Balance
+	- Customer ID, 
+	- Credit Score,  
+	- Annual Income,  
+	- Years in current job, 
+	- Home Ownership, Purpose, 
+	- Years of Credit History,
+	- Months since the last delinquent, 
+	- Number of Open Accounts,
+	- Number of Credit Problems,
+	- Maximum Open Credit, Bankruptcies, Tax Liens
+	- Loan ID
+	- Loan Status
+	- Current Loan Amount
+	- Term
+	- Monthly Debt
+	- Current Credit Balance
 
 ### Data Wrangling and Cleaning
 - Overall Data description
@@ -77,6 +77,7 @@ Used Tableau to visualize my overall data.
 
 ## Data Strategy: 
 * Banks need to define a strategy by defining the percentage of loans granted with the goal of keeping defaults below a certain rate
+
 ### Overview
 - Defining acceptance rate 
 - Defining limit probability
@@ -87,4 +88,4 @@ Used Tableau to visualize my overall data.
 
 ## Conclusion
 - Based on the acceptance rate, we can calculate our risk limit, error rate (risk within the accepted loans), number of loans given and the mazimized portfolio value. 
-- Our model had an accuracy od 70% 
+- Our model had an accuracy of 70% 
