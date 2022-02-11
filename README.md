@@ -1,8 +1,8 @@
-##[Credir Risk Analysis]
+## Credir Risk Analysis
 
-**[Nesma Dehili]**
+**Nesma Dehili**
 
-**[IronHack, Paris 11 Feb 2022]**
+**IronHack, Paris 11 Feb 2022**
 
 ## Overview
 
