@@ -62,11 +62,9 @@ Used:
 * Use tableau to analyze 
 * 
 ### Data Exploration and Visualization
-
 Used Tableau to visualize my overall data.
 
 ### Model Training and Evaluation
-
 - Encoding 
 - Feature Selection 
 - Hyperparameter tuning
